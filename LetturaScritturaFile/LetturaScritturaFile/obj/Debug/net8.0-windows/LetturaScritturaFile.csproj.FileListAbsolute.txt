@@ -1,0 +1,16 @@
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\bin\Debug\net8.0-windows\LetturaScritturaFile.exe
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\bin\Debug\net8.0-windows\LetturaScritturaFile.deps.json
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\bin\Debug\net8.0-windows\LetturaScritturaFile.runtimeconfig.json
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\bin\Debug\net8.0-windows\LetturaScritturaFile.dll
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\bin\Debug\net8.0-windows\LetturaScritturaFile.pdb
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\LetturaScritturaFile.Form1.resources
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\LetturaScritturaFile.csproj.GenerateResource.cache
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\LetturaScritturaFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\LetturaScritturaFile.AssemblyInfoInputs.cache
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\LetturaScritturaFile.AssemblyInfo.cs
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\LetturaScritturaFile.csproj.CoreCompileInputs.cache
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\LetturaScritturaFile.dll
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\refint\LetturaScritturaFile.dll
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\LetturaScritturaFile.pdb
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\LetturaScritturaFile.genruntimeconfig.cache
+C:\Users\pallo\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\net8.0-windows\ref\LetturaScritturaFile.dll
